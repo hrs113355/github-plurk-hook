@@ -1,0 +1,5 @@
+<?php
+    $plurk_api_key = '';
+    $plurk_username = '';
+    $plurk_password = '';
+?>
